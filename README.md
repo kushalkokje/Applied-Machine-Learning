@@ -5,3 +5,9 @@
    URL - https://archive.ics.uci.edu/ml/datasets/MONK's+Problems
    Decision tree implemented in Python 3
 
+2. Decision Tree learning for mshrrom dataset using Bagging and Adabost learning.
+   Implemented in Python 3
+   
+3. Final project - News articles classification using ipython notebook
+   
+
